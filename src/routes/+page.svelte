@@ -67,12 +67,12 @@
         // Update celebration gif after 3 seconds for better timing
         setTimeout(() => {
             celebrate = "/Memes/heart-12790.gif";
-        }, 2400);
+        }, 10000);
 
         // Hide confetti after 7 seconds
         setTimeout(() => {
             showConfetti = false;
-        }, 6000);
+        }, 18000);
 
         celebrate = "/Memes/congratulations-7600.gif";
 
